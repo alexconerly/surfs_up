@@ -2,7 +2,7 @@
 
 ## Analysis Overview
 
-The purpose of this project was to determine the temperature trends for the city of Oahu, Hawaii in order to assist an investor named W. Avy in assessing whether the location would be reliable investment for a prospective surf and ice cream shop in the area.  To perform the analysis, the months of June and December were specifically targeted for inspection as the investor deemed these months to be adequately representative of a full year's weather.  The dataset was contained within a SQLite database and included multiple years of temperature and precipitaiton data, spanning from 2010 through 2017, for nine different weather stations in the area.  In order to query the SQLite database, Python programming language was used in combination with SQLalchemy and Pandas dependencies from within a jupyter notebook.
+The purpose of this project was to determine the temperature trends for the city of Oahu, Hawaii in order to assist an investor named W. Avy in assessing whether the location would be reliable investment for a prospective surf and ice cream shop in the area.  To perform the analysis, the months of June and December were specifically targeted for inspection as the investor deemed these months to be adequately representative of a full year's temperature data.  The dataset was contained within a SQLite database and included multiple years of temperature and precipitaiton data, spanning from 2010 through 2017, for nine different weather stations in the area.  In order to query the SQLite database, Python programming language was used in combination with SQLalchemy and Pandas dependencies from within a jupyter notebook.
 
 
 ---------------------------------------------
